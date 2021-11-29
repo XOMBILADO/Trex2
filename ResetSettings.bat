@@ -1,0 +1,1 @@
+del "%APPDATA%\Rusticaland\QuickLauncher\opt" /s /f /q
